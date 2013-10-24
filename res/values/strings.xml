@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">C2DeMo</string>
+    <string name="action_settings">设置</string>
+    <string name="menu_settings">设置</string>
+    <string name="title_activity_main">推送提醒</string>
+    <string name="error_config">请设置 %1$s 常数和然后编译应用程序。</string>
+    <string name="already_registered">设备已经在服务器上注册。</string>
+    <string name="gcm_registered">来自 GCM：设备注册成功！</string>
+    <string name="gcm_unregistered">来自 GCM：设备注销成功！</string>
+    <string name="gcm_message">来自 GCM：你获得一条消息！</string>
+    <string name="gcm_error">来自 GCM： 错误 (%1$s).</string>
+    <string name="gcm_recoverable_error">来自 GCM：可恢复错误 (%1$s).</string>
+    <string name="gcm_deleted">来自 GCM： 服务器删除 %1$d 等待消息！</string>
+    <string name="server_registering">尝试 (尝试 %1$d/%2$d) 在Demo服务器上注册设备。</string>
+    <string name="server_registered">来自Demo服务器：成功添加设备！</string>
+    <string name="server_unregistered">来自Demo服务器： 成功删除设备！</string>
+    <string name="server_register_error">%1$d 次尝试后，仍然无法注册设备到Demo服务器上。</string>
+    <string name="server_unregister_error">无法在Demo服务器上注销设备 (%1$s).</string>
+    <string name="options_register">注册</string>
+    <string name="options_unregister">注销</string>
+    <string name="options_clear">清除</string>
+    <string name="options_exit">退出</string>
+    <string name="register_username">用户名：</string>
+    <string name="register_password">密码：</string>
+    <string name="register_username_hint">請輸入您的用戶名</string>
+    <string name="register_password_hint">請輸入您的密碼</string>
+    <string name="register">注册</string>
+
+</resources>
